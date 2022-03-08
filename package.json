@@ -1,0 +1,10 @@
+{
+  "name": "vapourium",
+  "description" : "An example site for split-testing",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "cp src/* dist/"
+  },
+  "author": "Fabien MACIP <fabien.macip@gmail.com>",
+  "license": "ISC"
+}
